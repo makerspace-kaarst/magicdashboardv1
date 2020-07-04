@@ -1,0 +1,6 @@
+Vollbild = True
+Speed = 10
+WetterLink = https://www.wetter.com/deutschland/kaarst/DE0005215.html
+
+
+
